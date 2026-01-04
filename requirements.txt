@@ -1,0 +1,11 @@
+chromadb
+sentence-transformers
+open_clip_torch
+Pillow
+pypdf
+openai
+python-dotenv
+tqdm
+click
+torch
+torchvision
